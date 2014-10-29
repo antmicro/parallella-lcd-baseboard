@@ -18,12 +18,15 @@ If you have any questions contact us at contact@antmicro.com.
 Change Log
 ----------
 
-- Initial Release
-  Release Date: 2014-10-29
-
+.. csv-table::
+   :header-rows: 1
+   
+   Title,Date,Version
+   Initial release,2014-10-29,0.1.0
+   
 Licence
 -------
 
 The files are released under the GNU General Public Licence v3.
 
-See LICENCE for the full text of the GNU GPL licence.
+See LICENCE.txt for the full text of the GNU GPL licence.
