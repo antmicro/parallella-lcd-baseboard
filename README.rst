@@ -1,0 +1,29 @@
+Antmicro Parallella LCD Board
+-----------------------------
+
+This is a repository containing the hardware design files for an LCD baseboard created by `Antmicro Ltd <http://antmicro.com>`_ for the `Parallella board <http://parallella.org/>`_ from `Adapteva <http://adapteva.com>`_.
+The baseboard is released as open hardware (see `Licence`_).
+
+Repository contents
+===================
+
+* Altium Designer project (Altium Designer Release 14)
+* schematics
+* assembly drawings and board dimensions
+* Bill of Materials (BOM)
+* Gerber files
+
+If you have any questions contact us at contact@antmicro.com.
+
+Change Log
+----------
+
+- Initial Release
+  Release Date: 2014-10-29
+
+Licence
+-------
+
+The files are released under the GNU General Public Licence v3.
+
+See LICENCE for the full text of the GNU GPL licence.
