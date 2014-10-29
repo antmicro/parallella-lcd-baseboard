@@ -7,11 +7,12 @@ The baseboard is released as open hardware (see `Licence`_).
 Repository contents
 ===================
 
-* Altium Designer project (Altium Designer Release 14)
-* schematics
-* assembly drawings and board dimensions
-* Bill of Materials (BOM)
-* Gerber files
+* *altium-project.zip* - Altium Designer project (Altium Designer Release 14)
+* *schematics.pdf* - schematics
+* *assembly-drawings.pdf* - assembly drawings
+* *board-dimensions.pdf* - board dimensions
+* *bom.pdf* - Bill of Materials (BOM)
+* *gerbers.zip* - Gerber files
 
 If you have any questions contact us at contact@antmicro.com.
 
