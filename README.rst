@@ -28,6 +28,8 @@ Change Log
 Licence
 -------
 
+Copyright © 2014 `Antmicro Ltd <http://antmicro.com>`_.
+
 The files are released under the GNU General Public Licence v3.
 
 See LICENCE.txt for the full text of the GNU GPL licence.
