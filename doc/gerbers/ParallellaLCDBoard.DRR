@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: board.PcbDoc   2014-10-13  16:49:58
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ParallellaLCDBoard.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        5.91mil (0.15011mm)      Round          101              16.17 Inch (410.68 mm)
+T2        7.87mil (0.1999mm)       Round          34               7.05 Inch (178.99 mm)
+T3        23.62mil (0.59995mm)     Round          3                0.20 Inch (5.08 mm)
+T4        30mil (0.762mm)          Round          30               6.67 Inch (169.45 mm)
+T5        40.16mil (1.02006mm)     Round          50               8.58 Inch (217.88 mm)
+T6        125mil (3.175mm)         Round          4                9.98 Inch (253.46 mm)
+T7        40mil (1.016mm)          Round          4         NPTH   3.23 Inch (82.16 mm)
+---------------------------------------------------------------------------
+Totals                                            226              51.88 Inch (1317.70 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
