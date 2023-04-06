@@ -1,20 +1,17 @@
-=================================
-Antmicro Parallella LCD baseboard
-=================================
+# Antmicro Parallella LCD baseboard
 
-Copyright (c) 2014-2021 `Antmicro <https://www.antmicro.com>`_
+Copyright (c) 2014-2023 [Antmicro](https://www.antmicro.com)
 
-.. figure:: ./img/parallella-lcd-baseboard.jpg
-   :alt: Photo of the baseboard populated with Parallella
+[![image](https://img.shields.io/badge/View%20on-Antmicro%20Open%20Source%20Portal-332d37?style=flat-square)](https://opensource.antmicro.com/projects/parallella-lcd-baseboard)
 
-Overview
---------
+![](img/parallella-lcd-baseboard.jpg)
 
-This is a repository containing the hardware design files for an LCD baseboard created by `Antmicro Ltd <http://antmicro.com>`_ for the `Parallella board <http://parallella.org/>`_ from `Adapteva <http://adapteva.com>`_.
+## Overview
+
+This project includes the hardware design files for an LCD baseboard created by [Antmicro](https://antmicro.com) for the [Parallella board](https://parallella.org/) from [Adapteva](https://adapteva.com).
 The baseboard is released as open hardware.
 
-Repository contents
--------------------
+## Project contents
 
 * ``pcb`` - PCB design files prepared in Altium Designer
 * ``doc`` - PCB documentation including schematics, mechanical drawings and Gerber files
@@ -22,7 +19,6 @@ Repository contents
 
 If you have any questions contact us at contact@antmicro.com.
 
-License
-=======
+## License
 
-`Apache-2.0 <LICENSE>`_
+This project is licensed under the [Apache-2.0](LICENSE) license.
